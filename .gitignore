@@ -1,0 +1,17 @@
+/Business/bin
+/Business/obj
+/DAL/bin
+/DAL/obj
+/Entities/bin
+/Entities/obj
+/IMS/bin
+/IMS/obj
+
+/.vs/IMS/v17
+/Report/obj
+/.vs/IMS
+/.vs
+/.vs/ProjectEvaluation
+/.vs/ProjectEvaluation/ims.metadata.v7.bin
+/.vs/ProjectEvaluation/ims.projects.v7.bin
+/.vs/ProjectEvaluation/ims.metadata.v7.bin

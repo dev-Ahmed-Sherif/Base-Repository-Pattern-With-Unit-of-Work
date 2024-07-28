@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RepositoryPatternWithUnitOfUOW.API.props" />
+</Project>
